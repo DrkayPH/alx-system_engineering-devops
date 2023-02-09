@@ -1,7 +1,3 @@
 <<<<<<< HEAD
 0	string SCHOOL	This is a school file
-!:mime text/school
-=======
-0	string SCHOOL	 This is a School file
-!:mime text/School
->>>>>>> 5eecb4a14a1afcb01af4a112df06c893931695f0
+!:mime text/This is a school file
